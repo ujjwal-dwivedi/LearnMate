@@ -1,0 +1,3 @@
+[submodule "backend/learn-mate"]
+	path = backend/learn-mate
+	url = https://github.com/ujjwal-dwivedi/learn-mate-backend.git
